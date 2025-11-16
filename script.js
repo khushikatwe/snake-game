@@ -60,5 +60,6 @@ function draw() {
     document.location.reload();
   }
 }
+// small update for commit history
 
 setInterval(draw, 150);
