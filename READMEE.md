@@ -18,3 +18,4 @@ Perfect beginner project to understand game loops, keyboard events, and canvas d
 - HTML
 - CSS
 - JavaScript (Canvas API)
+## Update: Snake game files added successfully.
